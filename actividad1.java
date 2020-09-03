@@ -1,1 +1,3 @@
-System.out.println("Hola mundo");
+public class actividad1{
+  System.out.println("Hola mundo");
+}

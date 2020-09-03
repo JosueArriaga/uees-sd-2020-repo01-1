@@ -1,5 +1,4 @@
 # uees-sd-2020-repo01
-System.out.println("Hola mundo");
 
 #Clasejava
 

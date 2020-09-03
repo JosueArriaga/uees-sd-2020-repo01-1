@@ -4,4 +4,3 @@
 
 Al ejecutar el codigo se imprimira la cadena de texto que tenemos entre comillas Hola mundo.
 
-commit
